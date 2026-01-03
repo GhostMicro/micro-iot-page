@@ -126,7 +126,8 @@ export default function Home() {
                   <Zap size={18} fill="currentColor" /> {t.btnLaunch}
                 </Link>
                 <Link
-                  href="#features"
+                  href="https://ghostmicro.github.io/micro-iot-gen-docs/"
+                  target="_blank"
                   className="px-8 py-3 rounded-full bg-white/5 border border-white/10 text-white font-medium hover:bg-white/10 transition-all backdrop-blur-sm"
                 >
                   {t.btnLearn}
